@@ -1,4 +1,9 @@
- #include <iostream>
+// Create a class BankAccount with data members like balance and member functions 
+// like deposit and withdraw. Implement encapsulation by keeping the data members 
+// private. 
+// o Objective: Understand encapsulation in classes.
+
+#include <iostream>
 using namespace std;
 
 class BankAccount {
@@ -72,4 +77,5 @@ int main() {
 
     return 0;
 }
+
 
