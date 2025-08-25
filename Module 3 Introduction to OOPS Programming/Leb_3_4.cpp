@@ -1,3 +1,5 @@
+//Write a program that prints a right-angled triangle using stars (*) with a nested loop. 
+// o Objective: Learn nested control structures. 
 #include <iostream>
 using namespace std;
 
@@ -18,4 +20,5 @@ int main() {
 
     return 0;
 }
+
 
