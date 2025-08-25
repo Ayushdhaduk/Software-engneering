@@ -1,3 +1,5 @@
+//Write a C++ program that calculates the factorial of a number using recursion. 
+// o Objective: Understand recursion in functions.
 #include <iostream>
 using namespace std;
 
@@ -23,4 +25,5 @@ int main() {
 
     return 0;
 }
+
 
