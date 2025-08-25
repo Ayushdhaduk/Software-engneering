@@ -1,4 +1,4 @@
-//Write a C++ program that takes a student’s marks as input and calculates the grade 
+//Write a C++ program that takes a studentâ€™s marks as input and calculates the grade 
 //based on if-else conditions. 
 //o Objective: Practice conditional statements (if-else).
 
