@@ -1,3 +1,6 @@
+//Write a C++ program to check if a given string is a palindrome (reads the same 
+//forwards and backwards). 
+//o Objective: Practice string operations.
 #include <iostream>
 #include <string>
 using namespace std;
@@ -27,4 +30,5 @@ int main() {
 
     return 0;
 }
+
 
